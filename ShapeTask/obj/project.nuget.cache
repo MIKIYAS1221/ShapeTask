@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CpsMkYfp4Qav2jykeHAdeVe5sIkYlApSST8Wid4GFcugaePF9s3/EZf9YEUkimNs6CQwuJzuDmIwKuRktJeCSw==",
+  "success": true,
+  "projectFilePath": "/home/miki/RiderProjects/ShapeTask/ShapeTask/ShapeTask.csproj",
+  "expectedPackageFiles": [
+    "/home/miki/.nuget/packages/microsoft.netcore.app.ref/7.0.5/microsoft.netcore.app.ref.7.0.5.nupkg.sha512",
+    "/home/miki/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.5/microsoft.aspnetcore.app.ref.7.0.5.nupkg.sha512",
+    "/home/miki/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.5/microsoft.netcore.app.host.linux-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

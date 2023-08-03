@@ -1,0 +1,15 @@
+/home/miki/RiderProjects/ShapeTask/ShapeTask/bin/Debug/net7.0/ShapeTask
+/home/miki/RiderProjects/ShapeTask/ShapeTask/bin/Debug/net7.0/ShapeTask.deps.json
+/home/miki/RiderProjects/ShapeTask/ShapeTask/bin/Debug/net7.0/ShapeTask.runtimeconfig.json
+/home/miki/RiderProjects/ShapeTask/ShapeTask/bin/Debug/net7.0/ShapeTask.dll
+/home/miki/RiderProjects/ShapeTask/ShapeTask/bin/Debug/net7.0/ShapeTask.pdb
+/home/miki/RiderProjects/ShapeTask/ShapeTask/obj/Debug/net7.0/ShapeTask.csproj.AssemblyReference.cache
+/home/miki/RiderProjects/ShapeTask/ShapeTask/obj/Debug/net7.0/ShapeTask.GeneratedMSBuildEditorConfig.editorconfig
+/home/miki/RiderProjects/ShapeTask/ShapeTask/obj/Debug/net7.0/ShapeTask.AssemblyInfoInputs.cache
+/home/miki/RiderProjects/ShapeTask/ShapeTask/obj/Debug/net7.0/ShapeTask.AssemblyInfo.cs
+/home/miki/RiderProjects/ShapeTask/ShapeTask/obj/Debug/net7.0/ShapeTask.csproj.CoreCompileInputs.cache
+/home/miki/RiderProjects/ShapeTask/ShapeTask/obj/Debug/net7.0/ShapeTask.dll
+/home/miki/RiderProjects/ShapeTask/ShapeTask/obj/Debug/net7.0/refint/ShapeTask.dll
+/home/miki/RiderProjects/ShapeTask/ShapeTask/obj/Debug/net7.0/ShapeTask.pdb
+/home/miki/RiderProjects/ShapeTask/ShapeTask/obj/Debug/net7.0/ShapeTask.genruntimeconfig.cache
+/home/miki/RiderProjects/ShapeTask/ShapeTask/obj/Debug/net7.0/ref/ShapeTask.dll
